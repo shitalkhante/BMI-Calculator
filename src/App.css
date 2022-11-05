@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.left{
+  display: inline-block;
+  text-align: left;
+}
+.right{
+  display: inline-block;
+  /* float: right; */
+  margin-left: 50px;
+}
+input{
+  margin-left: 30px;
+}
+.lables{
+  display: inline-block;
+}
+.inputs{
+  display: inline-block;
+}
+table{
+  display: inline-block;
+}
+td{
+  text-align: left;
+}
